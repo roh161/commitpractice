@@ -1,0 +1,16 @@
+current directory: /home/dell/Desktop/commitpractice/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/dell/Desktop/commitpractice/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220909-10625-ubo0xb sitelibdir\=./.gem.20220909-10625-ubo0xb clean
+
+current directory: /home/dell/Desktop/commitpractice/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220909-10625-ubo0xb sitelibdir\=./.gem.20220909-10625-ubo0xb
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/dell/Desktop/commitpractice/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220909-10625-ubo0xb sitelibdir\=./.gem.20220909-10625-ubo0xb install
+/usr/bin/install -m 0755 debug.so ./.gem.20220909-10625-ubo0xb/debug

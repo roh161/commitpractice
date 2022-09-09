@@ -1,0 +1,15 @@
+current directory: /home/dell/Desktop/commitpractice/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/dell/Desktop/commitpractice/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220909-10625-gv8bwf sitelibdir\=./.gem.20220909-10625-gv8bwf clean
+
+current directory: /home/dell/Desktop/commitpractice/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220909-10625-gv8bwf sitelibdir\=./.gem.20220909-10625-gv8bwf
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/dell/Desktop/commitpractice/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220909-10625-gv8bwf sitelibdir\=./.gem.20220909-10625-gv8bwf install
+/usr/bin/install -m 0755 cruby.so ./.gem.20220909-10625-gv8bwf/skiptrace/internal
